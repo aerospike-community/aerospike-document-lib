@@ -1,7 +1,10 @@
 # Aerospike Document API
-[![Build project](https://github.com/aerospike/aerospike-document-lib/actions/workflows/build.yml/badge.svg)](https://github.com/aerospike/aerospike-document-lib/actions/workflows/build.yml)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.aerospike/aerospike-document-api/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.aerospike/aerospike-document-api/)
-[![javadoc](https://javadoc.io/badge2/com.aerospike/aerospike-document-api/javadoc.svg)](https://javadoc.io/doc/com.aerospike/aerospike-document-api)
+
+⚠️ This project is now obsolete.
+
+Starting with [Aerospike Database 8.2.0](https://aerospike.com/blog/aerospike-database-8-2-0/) the [Aerospike Expression Language](https://aerospike.com/docs/develop/client/sdk/concepts/ael/) (AEL) provides the needed functionality with better performance and full coverage of Aerospike expressions. 
+
+## History
 
 This project provides an API for accessing and mutating Aerospike
 [Collection Data Type](https://www.aerospike.com/docs/client/java/index.html) (CDT)
