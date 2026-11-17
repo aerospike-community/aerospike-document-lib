@@ -1,5 +1,8 @@
 # Aerospike Document API
-This project is obsolete. Starting with [Aerospike Database 8.2.0](https://aerospike.com/blog/aerospike-database-8-2-0/) the [Aerospike Expression Language](https://aerospike.com/docs/develop/client/sdk/concepts/ael/) (AEL) provides similar functionality with better performance and full coverage of Aerospike expressions. 
+
+⚠️ This project is now obsolete.
+
+Starting with [Aerospike Database 8.2.0](https://aerospike.com/blog/aerospike-database-8-2-0/) the [Aerospike Expression Language](https://aerospike.com/docs/develop/client/sdk/concepts/ael/) (AEL) provides the needed functionality with better performance and full coverage of Aerospike expressions. 
 
 ## History
 
