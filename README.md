@@ -6,11 +6,13 @@ Starting with [Aerospike Database 8.2.0](https://aerospike.com/blog/aerospike-da
 
 ## History
 
-This project provides an API for accessing and mutating Aerospike
+This project provided an API for accessing and mutating Aerospike
 [Collection Data Type](https://www.aerospike.com/docs/client/java/index.html) (CDT)
 objects using [JSONPath](https://goessner.net/articles/JsonPath/) syntax.
-This effectively provides a document API, with CDT objects used to represent
-JSON documents in the Aerospike database.
+
+**Aerospike Document API is a community OSS project**. As described on the [Product Stages](https://aerospike.com/docs/database/reference/product-stages#open-source-products-tools-and-libraries) page, this means that Aerospike will no longer provide support for the Document API library, including vulnerability patching. If you are interested in contributing to the project please open an issue or a pull request.
+
+**For an actively developed alternative**, see [Expression DSL](https://github.com/aerospike/expression-dsl-java).
 
 ### Documentation
 
